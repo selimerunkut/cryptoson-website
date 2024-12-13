@@ -1,6 +1,6 @@
 # personal website
 
-https://cryptoson.tech/
+https://cryptoson.xyz/
 
 <sub>[Theme: neumorphism](https://github.com/longpdo/neumorphism/)</sub>
 
