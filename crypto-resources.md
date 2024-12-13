@@ -10,6 +10,7 @@ class: resources
 
 [Poster of the Bitcoin white paper](https://www.klausnordby.com/bitcoin/Bitcoin_Whitepaper_Poster_24x30.pdf)
 
+
 # Lists
 
 [dapp rankings](https://www.dapp.com/)
@@ -20,35 +21,47 @@ class: resources
 
 # Learn
 
-[rabbithole](https://rabbithole.gg/)
+[Explore crypto quests and earn while you learn - rabbithole](https://rabbithole.gg/)
+
+## engage and earn
+[explore and earn - layer3](https://app.layer3.xyz/)
 
 ## solidity
 
-https://cryptozombies.io/
+[Learn Solidity with interactive coding - cryptozombies](https://cryptozombies.io/)
+
+### advanced tooling
+[foundry full course](https://github.com/Cyfrin/foundry-full-course-cu)
+[hardhat.org tutorial](https://hardhat.org/tutorial)
+
+## learn from hackathon projects
+
+[ethglobal - showcase](https://ethglobal.com/showcase)
 
 ## dApp development:
  
-[scaffold-eth learn by challenges](https://speedrunethereum.com/)
+[scaffoldeth learn by challenges](https://speedrunethereum.com/)
 
-[ethereum.org tutorials](https://ethereum.org/en/developers/tutorials/)
+[Comprehensive tutorials on Ethereum development - ethereum.org tutorials](https://ethereum.org/en/developers/tutorials/)
 
-[dappuniversity](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial)
+[Learn to build dApps from scratch - dappuniversity](https://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial)
 
 ## BTC Transaction Security
 
-[Bitcoin Confirmation Risk Calculator](https://jlopp.github.io/bitcoin-confirmation-risk-calculator/)
+[Calculate the risk of unconfirmed Bitcoin transactions](https://jlopp.github.io/bitcoin-confirmation-risk-calculator/)
 
 ## Wallets & Storage
 
-[Mnemonic Code Converter](https://iancoleman.io/bip39/)
+[Convert mnemonic phrases to various formats](https://iancoleman.io/bip39/)
 
-[wallets and derivation paths explained](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2)
+[Understanding HD wallets and derivation paths](https://medium.com/myetherwallet/hd-wallets-and-derivation-paths-explained-865a643c7bf2)
 
 ### Choosing a wallet:
 
-[Aantonop – Bitcoin Q&A: How Do I Choose a Wallet?](https://www.youtube.com/watch?v=tN6b62sEpsY&amp;ab_channel=aantonop)
+[Andreas Antonopoulos explains how to choose a Bitcoin wallet](https://www.youtube.com/watch?v=tN6b62sEpsY&amp;ab_channel=aantonop)
 
-[Aantonop – Bitcoin Q&A: Can you trust a hardware wallet to generate your seed?](https://www.youtube.com/watch?v=tN6b62sEpsY&amp;ab_channel=aantonop)
+[Andreas Antonopoulos: Can you trust a hardware wallet to generate your seed?](https://www.youtube.com/watch?v=tN6b62sEpsY&amp;ab_channel=aantonop)
+
 ### Just suggest me a wallet (!!!DYOR!!! - always verify from the official website):
 #### Bitcoin
 ##### Hardware Wallets (always buy from the offical website)
@@ -56,62 +69,60 @@ https://cryptozombies.io/
 [Trezor](https://trezor.io/)
 
 [Ledger](https://www.ledger.com/)
+
 ##### Desktop wallets
-[electrum (use a hardware wallet)](https://electrum.org/#home)
+[Electrum - Recommended with hardware wallets](https://electrum.org/#home)
 
-[For "private" transactions - Coinjoin / Mixin](https://www.youtube.com/watch?v=rKoMvOH4zoY)
+[Privacy-focused Bitcoin transactions with Coinjoin](https://www.youtube.com/watch?v=rKoMvOH4zoY)
 
-[wasabi](https://wasabiwallet.io/)
+[Wasabi Wallet for enhanced privacy](https://wasabiwallet.io/)
 
 (as of writing this: 30.03.2021 there is a wasabi wallet on the android play store  - 99% a scam, beware!)
+
 ##### Mobile wallets
+[Samourai Wallet for Bitcoin](https://samouraiwallet.com/)
 
-[samurai](https://samouraiwallet.com/)
+[User-friendly mobile Bitcoin wallet - bluewallet](https://bluewallet.io/)
 
-[blue wallet](https://bluewallet.io/)
 ### High security storage for large amounts
+[Follow the Glacier Protocol for secure Bitcoin storage](https://glacierprotocol.org/)
 
-Protocol: [glacierprotocol](https://glacierprotocol.org/)
+[Secure hardware for privacy and security](https://puri.sm/)
 
-Laptop: [purism](https://puri.sm/)
 ### Multisig Wallets
-
-[Gnosis Multisig Wallet](https://gnosis-safe.io/)
+[Secure your ETH and sidechain assets with Gnosis Multisig Wallet](https://gnosis-safe.io/)
 
 ## Lightning Network
 
-[Link Compilation](https://ln.guide/)
+[Comprehensive guide to the Lightning Network](https://ln.guide/)
 
-[Book: Mastering the Lightning Network](https://github.com/lnbook/lnbook)
+[Deep dive into the Lightning Network technology  - LN Book](https://github.com/lnbook/lnbook)
 
-[Video: Mastering the Lightning Network with Andreas and René – Bonus Livestream
-Event](https://www.youtube.com/watch?v=fEPW6RXMGmA&amp;ab_channel=aantonop)
+[Learn to operate a Lightning Node](https://medium.com/@dougvk/run-your-own-mainnet-lightning-node-2d2eab628a8b)
 
-[Run your own mainnet Lightning Node](https://medium.com/@dougvk/run-your-own-mainnet-lightning-node-2d2eab628a8b)
+[Set up a Raspberry Pi Lightning Node](https://stadicus.github.io/RaspiBolt/)
 
-[Beginner’s Guide to ️Lightning️ on a Raspberry Pi](https://stadicus.github.io/RaspiBolt/)
-
-[UI for Lightning Node operations](https://github.com/Ride-The-Lightning/RTL)
+[User interface for managing Lightning nodes](https://github.com/Ride-The-Lightning/RTL)
 
 ## Blockchain Trackers
 
-[blockchair](https://blockchair.com/)
+[Explore block and transaction data across multiple blockchains](https://blockchair.com/)
 
 ### Ethereum
 
-[ethplorer.io](https://ethplorer.io/)
+[Detailed Ethereum blockchain explorer](https://ethplorer.io/)
 
-[etherscan.io](https://etherscan.io/)
+[Comprehensive Ethereum data and analytics](https://etherscan.io/)
 
-[etherchain.org](https://www.etherchain.org/)
+[Explore Ethereum's blockchain data](https://www.etherchain.org/)
 
-#### Layer 2
+#### Ethereum Layer 2
 
-[l2beat TVL](https://l2beat.com/)
+[Ethereum Layer 2 scaling solutions and their TVL](https://l2beat.com/)
 
 #### SideChains
 
-[ethereum.org sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains/)
+[Understanding Ethereum sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains/)
 
 ### Transaction Visualisation
 
@@ -288,7 +299,8 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 ##### Github Repos
 
-[scaffold-eth](https://github.com/scaffold-eth/scaffold-eth)
+[scaffold-eth.io github](https://github.com/scaffold-eth/scaffold-eth-2)
+
 
 #### Wargames
 
@@ -322,6 +334,13 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [studio.glassnode.com](https://studio.glassnode.com/)
 
+### BTC exchanges:
+
+## no KYC
+(WizardSwap.io)[WizardSwap.io]
+
+(OrangeFren.com)[OrangeFren.com]
+
 # Various Channels
 
 ## News
@@ -352,6 +371,8 @@ https://ethereum.org/en/eth2/beacon-chain/
 ## ETH games
 [darkforest](https://zkga.me/)
 
+[play and learn solidity security](https://ethernaut.openzeppelin.com/)
+
 [games ranking](https://dappradar.com/rankings/protocol/ethereum/category/games)
 
 ## BTC games
@@ -364,6 +385,9 @@ https://ethereum.org/en/eth2/beacon-chain/
 [bitcoinbountyhunt](https://bitcoinbountyhunt.com/)
 
 [thndr.games](https://thndr.games/games)
+
+
+
 
 # Monero
 
