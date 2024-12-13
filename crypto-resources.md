@@ -15,6 +15,12 @@ class: resources
 
 [dapp rankings](https://www.dapp.com/)
 
+## Staking solutions
+
+[Stake.fish - Staking Solutions](https://stake.fish/)
+
+[ETH - Staking Solutions](https://ethereum.org/en/staking/saas/)
+
 # Donate
 
 [thegivingblock](https://thegivingblock.com/)
@@ -124,274 +130,264 @@ class: resources
 
 [Understanding Ethereum sidechains](https://ethereum.org/en/developers/docs/scaling/sidechains/)
 
-### Transaction Visualisation
+### Transaction Visualization
 
-[blocknative - getting mempool data](https://www.blocknative.com/)
+[Get Mempool Data with Blocknative](https://www.blocknative.com/)
 
 #### BTC
 
-[loop compilation](https://www.lopp.net/n-information/visualizations.html)
+[Bitcoin Loop Visualization](https://www.lopp.net/n-information/visualizations.html)
 
 #### BTC & ETH
 
-[txstreet](https://txstreet.com/)
+[Track Transactions on TXStreet](https://txstreet.com/)
 
 ### NFT Trackers
 
-[cryptoslam](https://www.cryptoslam.io/)
+[Cryptoslam - NFT Rankings and Stats](https://www.cryptoslam.io/)
 
-[checkmynft - storage info of NFTs](https://checkmynft.com/)
+[nftscan](https://www.nftscan.com/)
 
-## Staking
-[stake.fish](https://stake.fish/)
+[Check My NFT - Storage Information of NFTs](https://checkmynft.com/)
 
 ## DeFi
 
-### Information Aggregator:
+### Information Aggregators
 
-[DeFi pulse](https://defipulse.com/)
+[DeFi Pulse - Track DeFi Projects](https://defipulse.com/)
 
-### Pool Information:
+### Pool Information
 
-[dextools](https://www.dextools.io/app/uniswap/pool-explorer)
+[Dextools - Uniswap Pool Explorer](https://www.dextools.io/app/uniswap/pool-explorer)
 
-[info.uniswap](https://info.uniswap.org/)
+[Uniswap Info - DeFi Analytics](https://info.uniswap.org/)
 
-### Ethereum and Binance Smart Chain portfolio tracker
+### Ethereum and Binance Smart Chain Portfolio Tracker
 
-[dappradar](https://dappradar.com/hub/wallet/)
+[DappRadar - Track DeFi Portfolios](https://dappradar.com/hub/wallet/)
 
 ### Swapping
 
 #### Uniswap:
 
-[A Graphical Guide for Understanding Uniswap](https://docs.ethhub.io/guides/graphical-guide-for-understanding-uniswap/)
+[Uniswap Graphical Guide](https://docs.ethhub.io/guides/graphical-guide-for-understanding-uniswap/)
 
-[uniswap on Layer 2 - optimism](https://help.uniswap.org/en/collections/3033942-layer-2)
+### Smart Contract Audits
 
-### Smart Contract Audits:
+[DeFi Safety - Security for DeFi Protocols](https://defisafety.com/)
 
-[DeFi Safety](https://defisafety.com/)
+[Certik - Smart Contract Auditing](https://certik.org/)
 
-[Certik](https://certik.org/)
-
-[Certified](https://cer.live/defi)
+[Certified - DeFi Security Assessments](https://cer.live/defi)
 
 ### Yield Farming
 
-[vfat tools - fork of yieldfarming.info](https://vfat.tools)
+[vFat Tools - Yield Farming Tracker](https://vfat.tools)
 
+https://www.yieldwatch.net/
+
+https://defillama.com/yields
 ### Asset Overview Dashboard
 
-[Zapper](https://zapper.fi/dashboard)
+[Zapper - DeFi Asset Overview](https://zapper.fi/dashboard)
 
 ### ETH Gas Info
 
-[Gas Price correlation by weekday and hour](https://medium.com/dextf/ethereum-how-to-save-even-more-on-gas-price-with-a-weekly-plan-c6689ac09fe6)
+[Gas Price Correlation by Weekday](https://medium.com/dextf/ethereum-how-to-save-even-more-on-gas-price-with-a-weekly-plan-c6689ac09fe6)
 
-[www.gwei.club](https://www.gwei.club/)
+[Gas Price Stats at Gwei Club](https://www.gwei.club/)
 
-[ETH Gas Station](https://ethgasstation.info/)
+[ETH Gas Station - Gas Prices and Alerts](https://ethgasstation.info/)
 
 ### Fees
 
-[cryptofees.info](https://cryptofees.info/)
+[Track Crypto Fees at CryptoFees.info](https://cryptofees.info/)
 
-[fees.wtf](https://fees.wtf/)
+[Track Fees with Fees.wtf](https://fees.wtf/)
 
-[bscfee.wtf](https://bscfee.wtf)
+[BSC Fee Tracking at BSCFee.wtf](https://bscfee.wtf)
 
 ### Trading and Attacks on AMM
 
-[Sandwich Attacks on Uniswap V2 calculator]([https://revoke.cash/](https://www.defi-sandwi.ch/)
+[DeFi Sandwich Attacks Calculator](https://www.defi-sandwi.ch/)
 
-### Revoke wallet permission
+### Revoke Wallet Permissions
 
-[revoke.cash](https://revoke.cash/)
+[Revoke Wallet Permissions at Revoke.cash](https://revoke.cash/)
 
-[approved.zone](https://approved.zone/)
+[approved.zone - Wallet Permissions](https://approved.zone/)
+
+metamask can alo do it
 
 ## Ethereum Resources
 
-[Dev Reading List](https://github.com/yippee-ki-yay/eth-dev-reading-list)
+[Ethereum Dev Reading List on GitHub](https://github.com/yippee-ki-yay/eth-dev-reading-list)
 
-[transaction - wallet carbon footprint](https://carbon.fyi/)
+[Track Wallet Carbon Footprint with Carbon.fyi](https://carbon.fyi/)
 
-[useweb3](https://www.useweb3.xyz/)
-
-[eth2book](https://eth2book.info/)
+[Learn Web3 with UseWeb3.xyz](https://www.useweb3.xyz/)
 
 [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook)
 
-### ETH POS
+### Ethereum Proof of Stake (ETH POS)
 
-https://ethereum.org/en/eth2/beacon-chain/
+[Learn About Ethereum 2.0 - Beacon Chain](https://ethereum.org/en/eth2/beacon-chain/)
 
 ### Ethereum Research
 
-[ethresear - ETH research forum](https://ethresear.ch/)
+[ETHResearch - Ethereum Research Forum](https://ethresear.ch/)
 
-[cryptoeconomicsystems](https://cryptoeconomicsystems.pubpub.org/)
+[Crypto Economics Systems](https://cryptoeconomicsystems.pubpub.org/)
 
-[zk tools, research, blog](https://0xparc.org/)
+[Zero Knowledge Tools and Research](https://0xparc.org/)
 
 ### Layer 2
 
-[optimism gateway](https://gateway.optimism.io/welcome)
+[Optimism Gateway for Layer 2 Solutions](https://gateway.optimism.io/welcome)
 
 ### Security
 
 #### Multichain
 
-[octopus](https://github.com/pventuzelo/octopus) - WebAssembly, EVM, AVM
+[Octopus - WebAssembly, EVM, AVM](https://github.com/pventuzelo/octopus)
 
-[reversing_ethereum_smart_contracts](https://patrickventuzelo.com/wp-content/uploads/2018/11/devcon4_reversing_ethereum_smart_contract_full.pdf) - Octopus tool creator - Patrick Ventuzelo
+[Reversing Ethereum Smart Contracts](https://patrickventuzelo.com/wp-content/uploads/2018/11/devcon4_reversing_ethereum_smart_contract_full.pdf)
 
 #### Solidity
 
 ##### Visualization
 
-[vscode solidity auditor](https://github.com/ConsenSys/vscode-solidity-auditor)
+[VSCode Solidity Auditor](https://github.com/ConsenSys/vscode-solidity-auditor)
 
-[ethereum graph debugger](https://github.com/fergarrui/ethereum-graph-debugger)
+[Ethereum Graph Debugger](https://github.com/fergarrui/ethereum-graph-debugger)
 
 ##### Static and Dynamic Analysis
 
-[mythril](https://github.com/ConsenSys/mythril) - Mythril is a security analysis tool for EVM bytecode
+[Mythril - Security Analysis Tool for Ethereum](https://github.com/ConsenSys/mythril)
 
-[slither](https://github.com/crytic/slither) - Solidity static analysis framework written in Python 3
+[Slither - Solidity Static Analysis](https://github.com/crytic/slither)
 
-[manticore](https://github.com/trailofbits/manticore) - symbolic execution tool for analysis of smart contracts and binaries.
+[Manticore - Symbolic Execution for Smart Contracts](https://github.com/trailofbits/manticore)
 
-[echidna](https://github.com/crytic/echidna) - Haskell program designed for fuzzing/property-based testing of EVM smarts contracts
+[Echidna - Fuzzing Tool for Ethereum](https://github.com/crytic/echidna)
 
-[pakala](https://github.com/palkeo/pakala) - Pakala is a tool to search for exploitable bugs in Ethereum smart contracts - symbolic execution engine for EVM
+[Rattle - EVM Binary Static Analysis](https://github.com/crytic/rattle)
 
-[securify2](https://github.com/eth-sri/securify2) - Securify 2.0 is a security scanner for Ethereum smart contracts using [pre definied vulnerabilities](https://github.com/eth-sri/securify2#supported-vulnerabilities)
+###### Development Stopped/Inactive
 
-[rattle](https://github.com/crytic/rattle) - Rattle is an EVM binary static analysis framework designed to work on deployed smart contracts
+[Verisol - Formal Verification for Smart Contracts](https://github.com/microsoft/verisol)
 
-###### development stopped/inactive
+##### Smart Contract Weakness Classification
 
-[verisol](https://github.com/microsoft/verisol) - prototyping a formal verification and analysis system for smart contracts
+[SWC definitions of crafted and real-world samples of vulnerable smart contracts](https://github.com/SmartContractSecurity/SWC-registry/)
 
-##### Smart Contract Weakness Classification and Test Cases
+[SWC-Registry Website](https://swcregistry.io/)
 
-[SWC-registry github](https://github.com/SmartContractSecurity/SWC-registry/) - github repo SWC definitions of crafted and real-world samples of vulnerable smart contracts
+##### Link Compilation
 
-[SWC-registry Website](https://swcregistry.io/) - published SWC-registry repo
+[Check for Smart Contract Bugs](https://klevoya.com/blog/check-smart-contract-for-bugs/)
 
-##### Link compilation
+[Consensys List of Security Tools](https://consensys.github.io/smart-contract-best-practices/security_tools/)
 
-[article: check smart contract for bugs](https://klevoya.com/blog/check-smart-contract-for-bugs/)
+[MythX Compilation - Smart Contract Security Tools](https://github.com/b-mueller/awesome-mythx-smart-contract-security-tools)
 
-[consensys - list of security tools](https://consensys.github.io/smart-contract-best-practices/security_tools/)
+##### Developer Resources
 
-[mythx compilation](https://github.com/b-mueller/awesome-mythx-smart-contract-security-tools) - contains articles, papers and videos
+[DeFi Developer Roadmap Mindmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
 
-##### Developer Ressources
+[Buidlguidl](https://buidlguidl.com/)
 
-[Developer Road Map Mindmap](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+[Interactive Solidity Shell](https://github.com/tintinweb/solidity-shell)
 
-[buidlguidl](https://buidlguidl.com/)
+##### GitHub Repos
 
-[interactive solidity shell](https://github.com/tintinweb/solidity-shell)
-
-##### Github Repos
-
-[scaffold-eth.io github](https://github.com/scaffold-eth/scaffold-eth-2)
-
+[Scaffold-ETH GitHub](https://github.com/scaffold-eth/scaffold-eth-2)
 
 #### Wargames
 
-[damnvulnerabledefi](https://www.damnvulnerabledefi.xyz/)
+[Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 
-[ethernaut](https://ethernaut.openzeppelin.com/)
+[Ethernaut by OpenZeppelin](https://ethernaut.openzeppelin.com/)
 
-[ethernaut level explanations](https://www.notonlyowner.com/ethernaut.html)
+[Ethernaut Level Explanations](https://www.notonlyowner.com/ethernaut.html)
 
 ## Bitcoin Resources
 
-[bitcoin.org](https://bitcoin.org/)
+[Bitcoin.org - Official Website](https://bitcoin.org/)
 
-[lopp.net](https://www.lopp.net/bitcoin-information.html)
+[Lopp.net - Bitcoin Information](https://www.lopp.net/bitcoin-information.html)
 
-[bitcoin-only](https://bitcoin-only.com/)
+[Bitcoin-Only website](https://bitcoin-only.com/)
 
-[bitcoin-resources.com](https://bitcoin-resources.com/)
+[Bitcoin Resources website](https://bitcoin-resources.com/)
 
-### Some analysis and models
+### Analysis and Models
 
-[charts.woobull.com](http://charts.woobull.com/)
+[Woobull Charts for Bitcoin](http://charts.woobull.com/)
 
-[medium.com/@100trillionUSD](https://medium.com/@100trillionUSD)
+[100 Trillion USD - Bitcoin Insights](https://medium.com/@100trillionUSD)
 
-### Sentiment Tools:
+### Sentiment Tools
 
-[santiment.net](https://app.santiment.net/)
+[Sentiment Analysis with Santiment](https://app.santiment.net/)
 
-[insights.glassnode.com](https://insights.glassnode.com/)
+[Glassnode Insights](https://insights.glassnode.com/)
 
-[studio.glassnode.com](https://studio.glassnode.com/)
+[Glassnode Studio](https://studio.glassnode.com/)
 
-### BTC exchanges:
+### BTC Exchanges (No KYC)
 
-## no KYC
-(WizardSwap.io)[WizardSwap.io]
+[WizardSwap](https://WizardSwap.io)
 
-(OrangeFren.com)[OrangeFren.com]
+[OrangeFren](https://OrangeFren.com)
 
 # Various Channels
 
 ## News
 
-[the defiant](https://thedefiant.io/)
+[The Defiant - DeFi News](https://thedefiant.io/)
 
-[defi pulse newsletters](https://www.defipulse.com/newsletters)
+[DeFi Pulse Newsletters](https://www.defipulse.com/newsletters)
 
-[feed.rekt](https://feed.rekt.news/)
+[Rekt News Feed](https://feed.rekt.news/)
 
-[cryptopanic](https://cryptopanic.com/)
+[Cryptopanic - Crypto News Aggregator](https://cryptopanic.com/)
 
 ## Telegram
 
 [CryptoVigilante Scam News](https://t.me/CryptoVigilanteANN)
 
-[Crypto "Influencers" Deleted Tweets](https://t.me/Crypto_Deleted)
+[Crypto Influencers Deleted Tweets](https://t.me/Crypto_Deleted)
 
 ## Discord
 
-[DeFi Safety](https://discord.gg/UUnKqyXZqS)
-(also on Telegram with the same name)
+[DeFi Safety Discord](https://discord.gg/UUnKqyXZqS)
 
-[NFT Rarity Checking Discord Server](https://discord.com/channels/860517479122206720/861139204146462730)
+[NFT Rarity Checking - Discord](https://discord.com/channels/860517479122206720/861139204146462730)
 
 # Games
 
-## ETH games
-[darkforest](https://zkga.me/)
+## ETH Games
 
-[play and learn solidity security](https://ethernaut.openzeppelin.com/)
+[Dark Forest - Ethereum Based Game](https://zkga.me/)
 
-[games ranking](https://dappradar.com/rankings/protocol/ethereum/category/games)
+[Game Rankings on DappRadar](https://dappradar.com/rankings/protocol/ethereum/category/games)
 
-## BTC games
-[lightnite](https://lightnite.io/)
+## BTC Games
 
-[satoshis.place](https://satoshis.place/)
+[Lightnite - Bitcoin Multiplayer Game](https://lightnite.io/)
 
-[escapeqr](https://escapeqr.com/)
+[Satoshi’s Place - Bitcoin-based Pixel Art Game](https://satoshis.place/)
 
-[bitcoinbountyhunt](https://bitcoinbountyhunt.com/)
+[EscapeQR - Bitcoin Puzzle Game](https://escapeqr.com/)
 
-[thndr.games](https://thndr.games/games)
+[Bitcoin Bounty Hunt](https://bitcoinbountyhunt.com/)
 
-
-
+[Thndr Games - Play to Earn](https://thndr.games/games)
 
 # Monero
 
-[sethforprivacy - Monero guides and stuff](https://sethforprivacy.com/guides/)
+[Monero Guides by Sethforprivacy](https://sethforprivacy.com/guides/)
 
 # no heading / not sorted
 
@@ -415,33 +411,31 @@ https://ethereum.org/en/eth2/beacon-chain/
 
 [web3 career](https://web3.career/)
 
-
-# Other stuff
+# Other Stuff
 
 ## Security
 
-[PrivacyTools - Encryption Against Global Mass Surveillance](https://www.privacytools.io/)
+[PrivacyTools.io - Encryption Against Surveillance](https://www.privacytools.io/)
 
-[overthewire wargames](https://overthewire.org/wargames/)
+[OverTheWire Wargames](https://overthewire.org/wargames/)
 
 ## Climate
 
-[carbon offset](https://offsetra.com/)
+[Carbon Offset Solutions](https://offsetra.com/)
 
 ## Research Papers
 
-[Sci Hub - research papers](https://sci-hub.se/)
+[SciHub - Research Papers Access](https://sci-hub.se/)
 
 ## Cryptography
 
 [Ask Cryptography](https://askcryp.to/)
 
-[uncloak - increase the accessibility of cryptography](https://uncloak.org/)
+[Uncloak - Accessible Cryptography Resources](https://uncloak.org/)
 
 ## Documentaries
 
-[Cypherpunks Write Code](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
-
+[Cypherpunks Write Code - YouTube Playlist](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
 ## Privacy & Security
 
 [Electronic Frontier Foundation](https://www.eff.org/)
